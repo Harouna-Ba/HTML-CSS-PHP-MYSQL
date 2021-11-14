@@ -1,0 +1,58 @@
+
+body{
+    background-color: white;
+}
+.conteneur{
+    top: 10%;
+    left: 30%;
+    min-width: 30%;
+    min-height: 30%;
+    background-color: whitesmoke;
+    position: fixed;
+    
+}
+.forme{
+    margin: 30px;
+    text-align: center;
+}
+h1{
+    color: rgb(29, 29, 209);
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+p{
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0px;
+}
+.forme input{
+    height: 28px;
+    width: 200px;
+    border-radius: 3px;
+
+
+}
+.forme .filtre button{
+    height: 30px;
+    width: 210px;
+    background-color: blue;
+    border: 0px;
+    border-radius: 3px;
+    color: white;
+}
+.forme .babacar button{
+    background-color: rgb(5, 143, 5);
+    width: 210px;
+    height: 28px;
+    border: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.forme .mayma button{
+    color: rgb(214, 118, 27);
+    background: whitesmoke;
+    border: 2px;
+    border-style: initial;
+    
+}
